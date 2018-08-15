@@ -13,3 +13,4 @@ export class MiGaleriaComponent implements OnInit {
   }
 
 }
+

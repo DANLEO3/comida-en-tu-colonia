@@ -1,4 +1,16 @@
 .fondo4{
-  background-image: url(/assets/comidaf.jpg);
   height: 100vh;
+  position: absolute;
+}
+
+.fondo4 img{
+  width: 100%;
+}
+
+#slider{
+  height:300px ;
+  width: 600px; 
+  margin: auto;
+  margin-top: 50px; 
+  box-shadow: 50px 50px 50px 5px black; 
 }
